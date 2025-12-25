@@ -35,6 +35,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.ryannair05.mitsuhaforever.deb
 Size: 92008
 MD5sum: fd35842b4cab0b1a3621721e3b92113a
+SHA256: 6D2EE9253A3180FD40520A4643A828A29FC419AA2EE120410FE9009D0C410ECB
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: Mitsuha Forever
 Author: Ryan Nair
